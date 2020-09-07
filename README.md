@@ -2,7 +2,7 @@
 
 How to use it?
 
-1. Configure `application.properties` (option)
+1. Configure `application.properties` (optional)
 2. Start up website by
 - run `ShiroRedisSpringBootTutorialApplication`
 - OR run `mvn spring-boot:run`
